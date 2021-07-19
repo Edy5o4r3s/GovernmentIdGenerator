@@ -30,4 +30,4 @@ def do_generator():
 
     n = random.randrange(len(whitelist))
 
-    return print("%d%d%d-%d%d%d%d%d-%d" % tuple(whitelist[n]))
+    return print(whitelist[n])
