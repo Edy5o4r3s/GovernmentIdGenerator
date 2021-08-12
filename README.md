@@ -18,11 +18,11 @@ Application to generate Government IDs of the followings countries:
 Open the project folder in a terminal, and run:
 
 - Linux:
-    ```buildoutcfg
+    ```
     python3 main.py 
     ```
 
 - Windows:
-    ```buildoutcfg
+    ```
      python main.py 
     ```
